@@ -45,4 +45,7 @@
 <h3 align="left">Bio:</h3>
 <p align="left">
   I am currently pursuing my M.Tech in Data Science at the Indian Institute of Technology, Guwahati. Prior to this, I successfully completed my PGDIIT (M.Tech 22-23) early exit from IIT Bombay. During my time at IIT Bombay, I actively engaged in research and projects related to materials informatics, machine learning, data science, and artificial intelligence.
+Now, at IIT Guwahati, I am further enhancing my knowledge in the field of data science with a full-time degree program. Besides my academic pursuits, I have a profound interest in international relations, geopolitics, and understanding global dynamics.
+
+Overall, I am dedicated to expanding my skill set and making a positive impact in both the field of data science and the realm of international relations.
 </p>
