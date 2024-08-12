@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Tarun Kumar</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
@@ -47,6 +46,3 @@
 <p align="left">
   I am currently pursuing my M.Tech in Data Science at the Indian Institute of Technology, Guwahati. Prior to this, I successfully completed my PGDIIT (M.Tech 22-23) early exit from IIT Bombay. During my time at IIT Bombay, I actively engaged in research and projects related to materials informatics, machine learning, data science, and artificial intelligence.
 </p>
-```
-
-You can copy this and use it for your GitHub profile README. Let me know if there’s anything else you’d like to adjust!
